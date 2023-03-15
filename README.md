@@ -1,6 +1,6 @@
 # mini-docker
 
-> An lightweight Go implementation of Docker's `run` command.
+> A lightweight Go implementation of Docker's `run` command.
 
 mini docker is an implementation of a very basic Docker runner (which allows you to execute arbitrary commands on any Docker image)
 
